@@ -33,19 +33,29 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Home",
+      "icon": "home-outline",
+      "url": "https://rallybehindyou.com"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Web App",
+      "icon": "apple-icloud",
+      "url": "https://app.rallybehindyou.com"
+    },
+    {
+      "name": "iPhone App",
+      "icon": "apple",
+      "url": "https://apps.apple.com/us/app/rally-behind-you/id6478541505"
+    },
+    {
+      "name": "Marketplace",
+      "icon": "store",
+      "url": "https://shop.rallybehindyou.com"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://blog.rallybehindyou.com"
     }
   ],
   "navigation": [
@@ -53,8 +63,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
