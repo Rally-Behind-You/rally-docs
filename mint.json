@@ -34,12 +34,12 @@
   "anchors": [
     {
       "name": "Home",
-      "icon": "home-outline",
+      "icon": "home",
       "url": "https://rallybehindyou.com"
     },
     {
       "name": "Web App",
-      "icon": "apple-icloud",
+      "icon": "cloud",
       "url": "https://app.rallybehindyou.com"
     },
     {
