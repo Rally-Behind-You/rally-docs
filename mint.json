@@ -26,11 +26,15 @@
     "url": "https://apprallybehindyou.com"
   },
   "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
   ],
   "anchors": [
     {
       "name": "Home",
-      "icon": "world",
+      "icon": "house",
       "url": "https://rallybehindyou.com"
     },
     {
