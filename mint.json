@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Login",
+    "url": "https://apprallybehindyou.com"
   },
   "tabs": [
     {
@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "Home",
-      "icon": "home",
+      "icon": "home-circle",
       "url": "https://rallybehindyou.com"
     },
     {
@@ -67,14 +67,10 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Tutorials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "tutorials/contact-management",
+        "tutorials/rallies"
       ]
     },
     {
@@ -93,8 +89,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/98847307"
   }
 }
